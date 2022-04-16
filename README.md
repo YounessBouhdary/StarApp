@@ -1,2 +1,2 @@
 # StarApp
- Android application 
+ Android Java application .
